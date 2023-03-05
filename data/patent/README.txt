@@ -1,0 +1,2 @@
+The data is originally from
+B. H. Hall, A. B. Jaffe, and M. Trajtenberg, “The nber patentcitation data file: Lessons, insights and methodological tools,”National Bureau of Economic Research, Tech. Rep., 2001.
